@@ -1,4 +1,0 @@
-Source: ros-dashing-rqt-console
-Version: 1.0.1
-Description: rqt_console provides a GUI plugin for displaying and filtering ROS messages.
-Build-Depends:
